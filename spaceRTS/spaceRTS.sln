@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "spaceRTS", "spaceRTS\spaceRTS.vcxproj", "{5DA8A0D8-8449-4DD2-A432-305BA1A9B8FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sandbox", "sandbox\sandbox.vcxproj", "{580CB808-7FC2-48D9-9899-7917FAC5DA2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B8B89465-994C-49BE-B509-CB689619F5AA}"
+	ProjectSection(SolutionItems) = preProject
+		res\shaders\Basic.shader = res\shaders\Basic.shader
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DA8A0D8-8449-4DD2-A432-305BA1A9B8FC}.Debug|x64.ActiveCfg = Debug|x64
+		{5DA8A0D8-8449-4DD2-A432-305BA1A9B8FC}.Debug|x64.Build.0 = Debug|x64
+		{5DA8A0D8-8449-4DD2-A432-305BA1A9B8FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{5DA8A0D8-8449-4DD2-A432-305BA1A9B8FC}.Debug|x86.Build.0 = Debug|Win32
+		{5DA8A0D8-8449-4DD2-A432-305BA1A9B8FC}.Release|x64.ActiveCfg = Release|x64
+		{5DA8A0D8-8449-4DD2-A432-305BA1A9B8FC}.Release|x64.Build.0 = Release|x64
+		{5DA8A0D8-8449-4DD2-A432-305BA1A9B8FC}.Release|x86.ActiveCfg = Release|Win32
+		{5DA8A0D8-8449-4DD2-A432-305BA1A9B8FC}.Release|x86.Build.0 = Release|Win32
+		{580CB808-7FC2-48D9-9899-7917FAC5DA2D}.Debug|x64.ActiveCfg = Debug|x64
+		{580CB808-7FC2-48D9-9899-7917FAC5DA2D}.Debug|x64.Build.0 = Debug|x64
+		{580CB808-7FC2-48D9-9899-7917FAC5DA2D}.Debug|x86.ActiveCfg = Debug|Win32
+		{580CB808-7FC2-48D9-9899-7917FAC5DA2D}.Debug|x86.Build.0 = Debug|Win32
+		{580CB808-7FC2-48D9-9899-7917FAC5DA2D}.Release|x64.ActiveCfg = Release|x64
+		{580CB808-7FC2-48D9-9899-7917FAC5DA2D}.Release|x64.Build.0 = Release|x64
+		{580CB808-7FC2-48D9-9899-7917FAC5DA2D}.Release|x86.ActiveCfg = Release|Win32
+		{580CB808-7FC2-48D9-9899-7917FAC5DA2D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8CEDA81-CFF6-4B02-BBA0-9336152BE7B5}
+	EndGlobalSection
+EndGlobal
