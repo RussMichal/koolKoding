@@ -1,6 +1,6 @@
 // ConsoleApplication2.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
+//Joan
 #include <iostream>
 
 //Make a program that converts feet to inches
