@@ -32,6 +32,7 @@ void homework()
 
 int main()
 {
+	//russ
 	//binary
 	//more data type
 	//8 bits = 1 byte
