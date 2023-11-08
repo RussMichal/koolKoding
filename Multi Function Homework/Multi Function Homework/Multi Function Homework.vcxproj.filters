@@ -18,6 +18,9 @@
     <ClCompile Include="Multi Function Homework.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Array Functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">

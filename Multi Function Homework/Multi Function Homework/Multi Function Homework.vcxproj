@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Array Functions.cpp" />
     <ClCompile Include="Multi Function Homework.cpp" />
   </ItemGroup>
   <ItemGroup>
