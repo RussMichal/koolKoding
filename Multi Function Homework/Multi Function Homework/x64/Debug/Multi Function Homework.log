@@ -1,5 +1,6 @@
 ﻿  Array Functions.cpp
-Multi Function Homework.obj : error LNK2005: main already defined in Array Functions.obj
+  Multi Function Homework.cpp
+  Generating Code...
 Multi Function Homework.obj : error LNK2019: unresolved external symbol "void __cdecl initializeArray(int * const,int)" (?initializeArray@@YAXQEAHH@Z) referenced in function main
 Multi Function Homework.obj : error LNK2019: unresolved external symbol "void __cdecl printArray(int * const,int)" (?printArray@@YAXQEAHH@Z) referenced in function main
 Multi Function Homework.obj : error LNK2019: unresolved external symbol "void __cdecl sortingArray(int * const,int)" (?sortingArray@@YAXQEAHH@Z) referenced in function main
