@@ -1,0 +1,4 @@
+﻿Multi Function Homework.obj : error LNK2019: unresolved external symbol "void __cdecl initializeArray(int * const,int)" (?initializeArray@@YAXQEAHH@Z) referenced in function main
+Multi Function Homework.obj : error LNK2019: unresolved external symbol "void __cdecl printArray(int * const,int)" (?printArray@@YAXQEAHH@Z) referenced in function main
+Multi Function Homework.obj : error LNK2019: unresolved external symbol "void __cdecl sortingArray(int * const,int)" (?sortingArray@@YAXQEAHH@Z) referenced in function main
+C:\Users\bgard\Desktop\Visual Studio\Multi Function Homework\x64\Debug\Multi Function Homework.exe : fatal error LNK1120: 3 unresolved externals
