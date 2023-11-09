@@ -8,8 +8,6 @@
 int main() {
     const int size = 5;
     int myArray[size];
-    int x;
-    x = 3;
 
     // Initialize the array
     initializeArray(myArray, size);

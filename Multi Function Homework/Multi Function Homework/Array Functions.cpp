@@ -2,20 +2,17 @@
 #include <algorithm> //for ranges
 #include "functions.h"
 
-int arrayFunctions() {
-
 const int SIZE = 5;
 int arr[SIZE] = { 5, 4, 3, 2, 1 };
 
-void initializeArray(); {
-	//Initializes the array
-	for (int i = 0; i < SIZE; i++)
+void initializeArray(int arr[], int size) {
+	for (int i = 0; i < size; i++)
 	{
 		arr[i] = 5 - i;
 	}
 }
 
-void printArray(); {
+void printArray(int arr[], int size) {
 	// print sorted array
 	for (int i = 0; i < SIZE; i++)
 	{
@@ -23,7 +20,7 @@ void printArray(); {
 	}
 }
 
-void sortingArray(); {
+void sortingArray(int arr[], int size) {
 	//sorts the array
 	for (int i = 0; i < SIZE - 1; i++)
 	{
@@ -36,6 +33,4 @@ void sortingArray(); {
 			}
 		}
 	}
-}
-return 0;
 }
