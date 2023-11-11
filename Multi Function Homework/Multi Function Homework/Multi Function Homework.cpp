@@ -17,8 +17,7 @@ int main() {
     printArray(myArray, size);
 
     // Sort the array in ascending order
-    std::sort(myArray, myArray + size);
-    sortingArray(myArray, size);
+    findValue(myArray, size);
     // Print the sorted array
     std::cout << " ";
     printArray(myArray, size);
